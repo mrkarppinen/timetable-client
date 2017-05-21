@@ -1,0 +1,255 @@
+{
+  "data": {
+    "stops": [
+      {
+        "name": "Pyöräilystadion",
+        "lat": 60.20108660000001,
+        "lon": 24.94531910000005,
+        "stoptimesForServiceDate": [
+          {
+            "pattern": {
+              "id": "UGF0dGVybjpIU0w6MTA2NjowOjAx",
+              "name": "66 to Kuusmiehentie (HSL:1351129)",
+              "headsign": "Paloheinä",
+              "route": {
+                "gtfsId": "HSL:1066",
+                "shortName": "66",
+                "longName": "Rautatientori-Maunula-Länsi-Pakila-Paloheinä"
+              },
+              "directionId": 0
+            },
+            "stoptimes": [
+              {
+                "headsign": "Paloheinä via Maunula",
+                "scheduledDeparture": 73980,
+                "serviceDay": 1495227600
+              },
+              {
+                "headsign": "Paloheinä via Maunula",
+                "scheduledDeparture": 72780,
+                "serviceDay": 1495227600
+              }
+            ]
+          },
+          {
+            "pattern": {
+              "id": "UGF0dGVybjpIU0w6MTA3Mk46MDowMQ==",
+              "name": "72N to Kirkonkyläntie (HSL:1403134)",
+              "headsign": "Siltamäki",
+              "route": {
+                "gtfsId": "HSL:1072N",
+                "shortName": "72N",
+                "longName": "Rautatientori-Oulunkylä-Pukinmäki-Siltamäki"
+              },
+              "directionId": 0
+            },
+            "stoptimes": [
+              {
+                "headsign": "Siltamäki via Pukinmäki",
+                "scheduledDeparture": 99900,
+                "serviceDay": 1495227600
+              },
+              {
+                "headsign": "Siltamäki via Pukinmäki",
+                "scheduledDeparture": 98100,
+                "serviceDay": 1495227600
+              }
+            ]
+          },
+          {
+            "pattern": {
+              "id": "UGF0dGVybjpIU0w6MTA1MTowOjAx",
+              "name": "51 to Neulastie (HSL:1333182)",
+              "headsign": "Malminkartano",
+              "route": {
+                "gtfsId": "HSL:1051",
+                "shortName": "51",
+                "longName": "Hakaniemi-Maunula-Malminkartano"
+              },
+              "directionId": 0
+            },
+            "stoptimes": [
+              {
+                "headsign": "Malminkartano via Käpylä as.",
+                "scheduledDeparture": 66660,
+                "serviceDay": 1495227600
+              },
+              {
+                "headsign": "Malminkartano via Käpylä as.",
+                "scheduledDeparture": 67860,
+                "serviceDay": 1495227600
+              }
+            ]
+          },
+          {
+            "pattern": {
+              "id": "UGF0dGVybjpIU0w6MTA2N1Y6MDowMQ==",
+              "name": "67V to Laamanninpuisto (HSL:1352148)",
+              "headsign": "Torpparinmäki",
+              "route": {
+                "gtfsId": "HSL:1067V",
+                "shortName": "67V",
+                "longName": "Rautatientori-Torpparinmäki"
+              },
+              "directionId": 0
+            },
+            "stoptimes": []
+          },
+          {
+            "pattern": {
+              "id": "UGF0dGVybjpIU0w6MTA2Nks6MDowMQ==",
+              "name": "66K to Kuusmiehentie (HSL:1351129)",
+              "headsign": "Paloheinä",
+              "route": {
+                "gtfsId": "HSL:1066K",
+                "shortName": "66K",
+                "longName": "Rautatientori-Metsälä-Maunula-Länsi-Pakila-Paloheinä"
+              },
+              "directionId": 0
+            },
+            "stoptimes": [
+              {
+                "headsign": "Paloheinä",
+                "scheduledDeparture": 23160,
+                "serviceDay": 1495227600
+              },
+              {
+                "headsign": "Paloheinä",
+                "scheduledDeparture": 26760,
+                "serviceDay": 1495227600
+              }
+            ]
+          },
+          {
+            "pattern": {
+              "id": "UGF0dGVybjpIU0w6MTA2NzowOjAx",
+              "name": "67 to Laamanninpuisto (HSL:1352148)",
+              "headsign": "Torpparinmäki",
+              "route": {
+                "gtfsId": "HSL:1067",
+                "shortName": "67",
+                "longName": "Rautatientori-Maunula-Pakila-Torpparinmäki"
+              },
+              "directionId": 0
+            },
+            "stoptimes": [
+              {
+                "headsign": "Torpparinmäki via Maunula",
+                "scheduledDeparture": 54240,
+                "serviceDay": 1495227600
+              },
+              {
+                "headsign": "Torpparinmäki via Maunula",
+                "scheduledDeparture": 92100,
+                "serviceDay": 1495227600
+              }
+            ]
+          },
+          {
+            "pattern": {
+              "id": "UGF0dGVybjpIU0w6MTA2NTowOjAx",
+              "name": "65 to Myllypellontie (HSL:1285166)",
+              "headsign": "Veräjälaakso",
+              "route": {
+                "gtfsId": "HSL:1065",
+                "shortName": "65",
+                "longName": "Rautatientori-Käpylä-Veräjälaakso"
+              },
+              "directionId": 0
+            },
+            "stoptimes": [
+              {
+                "headsign": "Veräjälaakso via Kätilöopisto",
+                "scheduledDeparture": 101880,
+                "serviceDay": 1495227600
+              },
+              {
+                "headsign": "Veräjälaakso via Kätilöopisto",
+                "scheduledDeparture": 40020,
+                "serviceDay": 1495227600
+              }
+            ]
+          },
+          {
+            "pattern": {
+              "id": "UGF0dGVybjpIU0w6MTA2N046MDowMQ==",
+              "name": "67N to Laamanninpuisto (HSL:1352148)",
+              "headsign": "Torpparinmäki",
+              "route": {
+                "gtfsId": "HSL:1067N",
+                "shortName": "67N",
+                "longName": "Rautatientori-Torpparinmäki"
+              },
+              "directionId": 0
+            },
+            "stoptimes": [
+              {
+                "headsign": "Torpparinmäki via Maunula",
+                "scheduledDeparture": 93960,
+                "serviceDay": 1495227600
+              },
+              {
+                "headsign": "Torpparinmäki via Maunula",
+                "scheduledDeparture": 104700,
+                "serviceDay": 1495227600
+              }
+            ]
+          },
+          {
+            "pattern": {
+              "id": "UGF0dGVybjpIU0w6MTA3MjowOjAx",
+              "name": "72 to Tapanilan Urheiluk. (HSL:1392154)",
+              "headsign": "Tapanila",
+              "route": {
+                "gtfsId": "HSL:1072",
+                "shortName": "72",
+                "longName": "Rautatientori-Oulunkylä-Pukinmäki-Tapanila"
+              },
+              "directionId": 0
+            },
+            "stoptimes": [
+              {
+                "headsign": "Itä-Pakila via Oulunkylä",
+                "scheduledDeparture": 30660,
+                "serviceDay": 1495227600
+              },
+              {
+                "headsign": "Itä-Pakila via Oulunkylä",
+                "scheduledDeparture": 32520,
+                "serviceDay": 1495227600
+              }
+            ]
+          },
+          {
+            "pattern": {
+              "id": "UGF0dGVybjpIU0w6NDUxODowOjAx",
+              "name": "518 to Kuninkaanmäki (HSL:4970233) from Ilmalan seisake (HSL:1171150) via Pasilan asema (HSL:1173104)",
+              "headsign": "Kuninkaanmäki",
+              "route": {
+                "gtfsId": "HSL:4518",
+                "shortName": "518",
+                "longName": "Ilmala-Pasila-Kuninkaanmäki"
+              },
+              "directionId": 0
+            },
+            "stoptimes": []
+          },
+          {
+            "pattern": {
+              "id": "UGF0dGVybjpIU0w6NDUxODowOjAy",
+              "name": "518 to Kuninkaanmäki (HSL:4970233) from Ilmalan seisake (HSL:1171150) via Pasilan asema (HSL:1174128)",
+              "headsign": "Kuninkaanmäki",
+              "route": {
+                "gtfsId": "HSL:4518",
+                "shortName": "518",
+                "longName": "Ilmala-Pasila-Kuninkaanmäki"
+              },
+              "directionId": 0
+            },
+            "stoptimes": []
+          }
+        ]
+      }
+    ]
+  }
+}
