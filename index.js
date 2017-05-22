@@ -1,3 +1,3 @@
 
 
-module.exports = require('./lib/timetable-service.js');
+module.exports = require('./lib/timetable-client.js');
