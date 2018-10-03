@@ -19,7 +19,7 @@
   "homepage": "https://github.com/mrkarppinen/timetable-client#readme",
   "devDependencies": {
     "chai": "^3.5.0",
-    "mocha": "^3.4.1"
+    "mocha": "^5.2.0"
   },
   "dependencies": {
     "graphql-client": "^1.1.0"
