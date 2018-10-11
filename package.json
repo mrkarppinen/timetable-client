@@ -22,6 +22,6 @@
     "mocha": "^5.2.0"
   },
   "dependencies": {
-    "graphql-client": "^1.1.0"
+    "axios": "^0.18.0"
   }
 }
